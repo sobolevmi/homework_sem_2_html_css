@@ -1,0 +1,32 @@
+body, html {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    background-color:azure;
+    width: auto;
+    overflow-x: hidden;
+    margin-right: 30px;
+    margin-left: 30px;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+.container {
+    font-size: 20px;
+    font-style: italic;
+    text-align: center;
+}
+
+.header, .photo1, .photo2, .photo3 {
+    font-size: 12px;
+    font-style: italic;
+    text-align: center;
+}
+
+.content {
+    text-align: justify;
+}
+
+.footer {
+    font-style: italic;
+    padding-bottom: 10px;
+}
